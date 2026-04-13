@@ -29,18 +29,3 @@
 ├── .env.example
 ├── requirements.txt
 └── README.md
-```
-
-## Cara Run Notebook
-
-```bash
-jupyter notebook notebook/tubes_dwh_jakarta_transit.ipynb
-```
-
-Run semua cell dari atas ke bawah secara berurutan.
-
-## Catatan
-
-- File `.env` dan `credentials.json` **TIDAK** di-commit ke GitHub
-- Data GTFS di `data/gtfs/` perlu di-download manual dari data.jakarta.go.id
-- Data Google Maps di `data/gmaps/` perlu di-generate via API
