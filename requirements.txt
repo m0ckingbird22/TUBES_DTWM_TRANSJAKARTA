@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+folium
+jupyter
+python-dotenv
+google-cloud-bigquery
+google-auth
+requests

@@ -1,0 +1,61 @@
+# ============================================
+# Tubes DWH Transportasi Jakarta - Gitignore
+# ============================================
+
+# --- Credentials & Secrets (WAJIB) ---
+credentials.json
+.env
+*.key
+service-account*.json
+
+# --- Data: GTFS (file besar, download ulang) ---
+data/gtfs/*.txt
+data/gtfs/*.zip
+
+# --- Data: Google Maps API (regenerate) ---
+data/gmaps/*.json
+
+# --- Data: Manual (optional, uncomment jika mau exclude) ---
+# data/manual/*.csv
+# data/manual/*.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# --- Virtual Environment ---
+venv/
+env/
+.venv/
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Logs ---
+*.log
+
+# --- Temp/Cache ---
+*.tmp
+*.temp
+.cache/
