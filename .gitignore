@@ -8,15 +8,7 @@ credentials.json
 *.key
 service-account*.json
 
-# --- Data: GTFS (file besar, download ulang) ---
-data/gtfs/*.txt
-data/gtfs/*.zip
-
-# --- Data: Google Maps API (regenerate) ---
-data/gmaps/*.json
-
 # --- Data: Manual (optional, uncomment jika mau exclude) ---
-# data/manual/*.csv
 # data/manual/*.json
 
 # --- Python ---
