@@ -1,11 +1,12 @@
 # Tugas Besar DWH - Transportasi Umum Jakarta
 
 ## Anggota Kelompok
-| Nama | NIM | Role |
-|------|-----|------|
-| - | - | Data Architect & Schema Designer |
-| - | - | Data Engineer / ETL Developer |
-| - | - | Data Analyst & Visualizer |
+
+| Nama                  | NIM         | Role                             |
+| --------------------- | ----------- | -------------------------------- |
+| Muhammad Afiq Aqhdaq  | 24110300008 | Data Architect & Schema Designer |
+| Dhafi Ihza Al Kahfi   | 24110300031 | Data Engineer / ETL Developer    |
+| Muhammad Nabil Alviro | -           | Data Analyst & Visualizer        |
 
 ## Setup Environment
 
@@ -60,6 +61,7 @@ jupyter notebook notebook/tubes_dwh_jakarta_transit.ipynb
 Run semua cell dari atas ke bawah secara berurutan.
 
 ## Catatan
+
 - File `.env` dan `credentials.json` **TIDAK** di-commit ke GitHub
 - Data GTFS di `data/gtfs/` perlu di-download manual dari data.jakarta.go.id
 - Data Google Maps di `data/gmaps/` perlu di-generate via API
