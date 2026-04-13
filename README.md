@@ -8,27 +8,6 @@
 | Dhafi Ihza Al Kahfi   | 24110300031 | Data Engineer / ETL Developer    |
 | Muhammad Nabil Alviro | -           | Data Analyst & Visualizer        |
 
-## Setup Environment
-
-```bash
-# 1. Clone repo
-git clone https://github.com/xxx/Tubes_DWH_TransportasiJakarta.git
-cd Tubes_DWH_TransportasiJakarta
-
-# 2. Buat virtual environment
-python -m venv venv
-
-# Windows
-venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Setup credentials
-cp .env.example .env
-# Edit .env dan isi dengan API key & project ID kamu
-# Taruh credentials.json (service account Google Cloud) di root folder
-```
 
 ## Struktur Folder
 
