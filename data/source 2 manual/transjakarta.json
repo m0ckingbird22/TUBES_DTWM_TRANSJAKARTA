@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "tanggal akses": "2026-04-13",
+    "sumber": "https://www.transjakarta.co.id/"
+  },
+  "tarif": {
+    "jenis": "",
+    "harga_Rp": null,
+    "catatan": "opsional"
+  },
+  "jam_operasional": {
+    "weekday": { "pertama": "", "terakhir": "" },
+    "weekend": { "pertama": "", "terakhir": "" }
+  },
+  "kapasitas_penumpang": {
+    "bus_BRT_gandeng": { "min": 120, "max": 150 },
+    "bus_BRT": { "min": 60, "max": 80 },
+    "mikrotrans": 15,
+    "bus_royal_trans": { "min": 30, "max": 35 },
+    "bus_transjakarta_cares": { "min": 30, "max": 40 },
+    "bus_wisata": 77
+  },
+  "jumlah_armada_aktif": {
+    "bus_BRT": 4.988,
+    "bus_BRT_gandeng": { "min": 4.0, "max": 5.0 },
+    "mikrotrans": 2.9,
+    "bus_royal_trans": 16,
+    "bus_transjakarta_cares": 26,
+    "bus_wisata": 5
+  }
+}
