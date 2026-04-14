@@ -1,0 +1,2 @@
+route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,agency_id
+M1,Utara-Selatan,Lebak Bulus - Bundaran HI,1,cb1945,FFFFFF,jakarta_mrt
