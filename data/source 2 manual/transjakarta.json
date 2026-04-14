@@ -3,29 +3,69 @@
     "tanggal akses": "2026-04-13",
     "sumber": "https://www.transjakarta.co.id/"
   },
-  "tarif": {
-    "jenis": "",
-    "harga_Rp": null,
-    "catatan": "opsional"
-  },
-  "jam_operasional": {
-    "weekday": { "pertama": "", "terakhir": "" },
-    "weekend": { "pertama": "", "terakhir": "" }
-  },
-  "kapasitas_penumpang": {
-    "bus_BRT_gandeng": { "min": 120, "max": 150 },
-    "bus_BRT": { "min": 60, "max": 80 },
-    "mikrotrans": 15,
-    "bus_royal_trans": { "min": 30, "max": 35 },
-    "bus_transjakarta_cares": { "min": 30, "max": 40 },
-    "bus_wisata": 77
-  },
-  "jumlah_armada_aktif": {
-    "bus_BRT": 4.988,
-    "bus_BRT_gandeng": { "min": 4.0, "max": 5.0 },
-    "mikrotrans": 2.9,
-    "bus_royal_trans": 16,
-    "bus_transjakarta_cares": 26,
-    "bus_wisata": 5
-  }
+  "tarif": [
+    { "jenis": "Bus BRT", "harga_Rp": 3500, "catatan": "opsional" },
+    { "jenis": "Mikrotrans", "harga_Rp": 0, "catatan": "gratis" },
+    { "jenis": "Bus Gandeng", "harga_Rp": 3500, "catatan": "opsional" },
+    { "jenis": "Royal Trans", "harga_Rp": 20000, "catatan": "opsional" },
+    { "jenis": "Bus Wisata", "harga_Rp": 0, "catatan": "gratis" },
+    { "jenis": "Bus Transjakarta Cares", "harga_Rp": 0, "catatan": "gratis" }
+  ],
+  "armada": [
+    {
+      "jenis": "Bus BRT",
+      "kapasitas": { "min": 60, "max": 80 },
+      "jumlah_unit": 4988
+    },
+    {
+      "jenis": "Bus BRT Gandeng",
+      "kapasitas": { "min": 120, "max": 150 },
+      "jumlah_unit": { "min": 400, "max": 500 }
+    },
+    {
+      "jenis": "Mikrotrans",
+      "kapasitas": 15,
+      "jumlah_unit": 2900
+    },
+    {
+      "jenis": "Royal Trans",
+      "kapasitas": { "min": 30, "max": 35 },
+      "jumlah_unit": 16
+    },
+    {
+      "jenis": "Transjakarta Cares",
+      "kapasitas": { "min": 30, "max": 40 },
+      "jumlah_unit": 26
+    },
+    {
+      "jenis": "Bus Wisata",
+      "kapasitas": 77,
+      "jumlah_unit": 5
+    }
+  ],
+  "koridor": [
+    { "koridor_id": 1, "nama": "Blok M - Kota", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 2, "nama": "Pulo Gadung - Monumen Nasional", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 3, "nama": "Kalideres - Monumen Nasional via Veteran", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 4, "nama": "Pulo Gadung - Galunggung", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 5, "nama": "Kampung Melayu - Ancol", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 6, "nama": "Ragunan - Galunggung", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 7, "nama": "Kampung Rambutan - Kampung Melayu", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 8, "nama": "Lebak Bulus - Pasar Baru", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 9, "nama": "Pinang Ranti - Pluit", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 10, "nama": "Tanjung Priok - PGC", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 11, "nama": "Pulo Gebang - Kampung Melayu", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 12, "nama": "Pluit - Tanjung Priok", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 13, "nama": "Ciledug - Tegal Mampang (Puri Beta 2 - Tegal Mampang)", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": 14, "nama": "JIS - Senen", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
+    { "koridor_id": "5M", "nama": "Kampung Melayu - Tanah Abang (via Cikini)", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "6W", "nama": "Blok M - Duren Tiga (via Bangka Raya)", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "10D", "nama": "Kampung Rambutan - Tanjung Priok", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "6H", "nama": "Senen - Lebak Bulus", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "6D", "nama": "Stasiun Tebet - Bundaran Senayan", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "6A", "nama": "Ragunan - Balai Kota via Kuningan", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "6B", "nama": "Ragunan - Balai Kota via Semanggi", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "5C", "nama": "Cililitan - Juanda", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
+    { "koridor_id": "7C", "nama": "Cibubur - Cawang Cililitan", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } }
+  ]
 }
