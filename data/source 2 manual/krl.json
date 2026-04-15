@@ -1,0 +1,107 @@
+[
+  {
+    "id": "KRL-001",
+    "moda": "KRL Commuter Line",
+    "koridor": "Lintas Bogor (Red Line)",
+    "rute": "Bogor/Depok - Jakarta Kota PP",
+    "tarif": {
+      "skema": "Progresif Berbasis Jarak",
+      "rincian": "Rp 3.000 (25 km pertama), +Rp 1.000 (setiap 10 km berikutnya)"
+    },
+    "operasional": {
+      "jam_pertama": "03:40",
+      "jam_terakhir": "23:55",
+      "headway_peak_hour": "5 menit"
+    },
+    "kapasitas": {
+      "format_rangkaian": "SF12 (12 Gerbong)",
+      "penumpang_per_gerbong": 250,
+      "total_kapasitas_rangkaian": 3000
+    },
+    "jumlah_armada_aktif": 34
+  },
+  {
+    "id": "KRL-002",
+    "moda": "KRL Commuter Line",
+    "koridor": "Lintas Cikarang (Blue Line)",
+    "rute": "Cikarang - Bekasi - Manggarai/Pasar Senen - Kampung Bandan PP",
+    "tarif": {
+      "skema": "Progresif Berbasis Jarak",
+      "rincian": "Rp 3.000 (25 km pertama), +Rp 1.000 (setiap 10 km berikutnya)"
+    },
+    "operasional": {
+      "jam_pertama": "04:00",
+      "jam_terakhir": "23:30",
+      "headway_peak_hour": "10-15 menit"
+    },
+    "kapasitas": {
+      "format_rangkaian": "SF10 / SF12",
+      "penumpang_per_gerbong": 250,
+      "total_kapasitas_rangkaian": 2500
+    },
+    "jumlah_armada_aktif": 28
+  },
+  {
+    "id": "KRL-003",
+    "moda": "KRL Commuter Line",
+    "koridor": "Lintas Rangkasbitung (Green Line)",
+    "rute": "Rangkasbitung/Parung Panjang - Tanah Abang PP",
+    "tarif": {
+      "skema": "Progresif Berbasis Jarak",
+      "rincian": "Rp 3.000 (25 km pertama), +Rp 1.000 (setiap 10 km berikutnya)"
+    },
+    "operasional": {
+      "jam_pertama": "03:50",
+      "jam_terakhir": "23:40",
+      "headway_peak_hour": "10-15 menit"
+    },
+    "kapasitas": {
+      "format_rangkaian": "SF10 (10 Gerbong)",
+      "penumpang_per_gerbong": 250,
+      "total_kapasitas_rangkaian": 2500
+    },
+    "jumlah_armada_aktif": 22
+  },
+  {
+    "id": "KRL-004",
+    "moda": "KRL Commuter Line",
+    "koridor": "Lintas Tangerang (Brown Line)",
+    "rute": "Tangerang - Duri PP",
+    "tarif": {
+      "skema": "Progresif Berbasis Jarak",
+      "rincian": "Rp 3.000 (25 km pertama), +Rp 1.000 (setiap 10 km berikutnya)"
+    },
+    "operasional": {
+      "jam_pertama": "04:30",
+      "jam_terakhir": "23:10",
+      "headway_peak_hour": "15-20 menit"
+    },
+    "kapasitas": {
+      "format_rangkaian": "SF8 (8 Gerbong)",
+      "penumpang_per_gerbong": 250,
+      "total_kapasitas_rangkaian": 2000
+    },
+    "jumlah_armada_aktif": 10
+  },
+  {
+    "id": "KRL-005",
+    "moda": "KRL Commuter Line",
+    "koridor": "Lintas Tanjung Priok (Pink Line)",
+    "rute": "Tanjung Priok - Jakarta Kota PP",
+    "tarif": {
+      "skema": "Progresif Berbasis Jarak",
+      "rincian": "Rp 3.000 (25 km pertama), +Rp 1.000 (setiap 10 km berikutnya)"
+    },
+    "operasional": {
+      "jam_pertama": "06:00",
+      "jam_terakhir": "21:15",
+      "headway_peak_hour": "30 menit"
+    },
+    "kapasitas": {
+      "format_rangkaian": "SF8 (8 Gerbong)",
+      "penumpang_per_gerbong": 250,
+      "total_kapasitas_rangkaian": 2000
+    },
+    "jumlah_armada_aktif": 3
+  }
+]
