@@ -15,7 +15,7 @@
     {
       "jenis": "Bus BRT",
       "kapasitas": { "min": 60, "max": 80 },
-      "jumlah_unit": 4988
+      "jumlah_unit": 4.988
     },
     {
       "jenis": "Bus BRT Gandeng",
@@ -25,7 +25,7 @@
     {
       "jenis": "Mikrotrans",
       "kapasitas": 15,
-      "jumlah_unit": 2900
+      "jumlah_unit": 2.9
     },
     {
       "jenis": "Royal Trans",
@@ -44,28 +44,116 @@
     }
   ],
   "koridor": [
-    { "koridor_id": 1, "nama": "Blok M - Kota", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 2, "nama": "Pulo Gadung - Monumen Nasional", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 3, "nama": "Kalideres - Monumen Nasional via Veteran", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 4, "nama": "Pulo Gadung - Galunggung", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 5, "nama": "Kampung Melayu - Ancol", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 6, "nama": "Ragunan - Galunggung", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 7, "nama": "Kampung Rambutan - Kampung Melayu", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 8, "nama": "Lebak Bulus - Pasar Baru", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 9, "nama": "Pinang Ranti - Pluit", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 10, "nama": "Tanjung Priok - PGC", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 11, "nama": "Pulo Gebang - Kampung Melayu", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 12, "nama": "Pluit - Tanjung Priok", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 13, "nama": "Ciledug - Tegal Mampang (Puri Beta 2 - Tegal Mampang)", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": 14, "nama": "JIS - Senen", "tipe": "BRT", "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" } },
-    { "koridor_id": "5M", "nama": "Kampung Melayu - Tanah Abang (via Cikini)", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "6W", "nama": "Blok M - Duren Tiga (via Bangka Raya)", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "10D", "nama": "Kampung Rambutan - Tanjung Priok", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "6H", "nama": "Senen - Lebak Bulus", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "6D", "nama": "Stasiun Tebet - Bundaran Senayan", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "6A", "nama": "Ragunan - Balai Kota via Kuningan", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "6B", "nama": "Ragunan - Balai Kota via Semanggi", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "5C", "nama": "Cililitan - Juanda", "tipe": "BRT", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } },
-    { "koridor_id": "7C", "nama": "Cibubur - Cawang Cililitan", "tipe": "Angkutan Umum Integrasi", "jam_operasional": { "weekday": { "pertama": "05:00", "terakhir": "22:00" }, "weekend": { "pertama": "05:00", "terakhir": "22:00" } } }
+    {
+      "koridor_id": 1,
+      "nama": "Blok M - Kota",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 2,
+      "nama": "Pulo Gadung - Monumen Nasional",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 3,
+      "nama": "Kalideres - Monumen Nasional via Veteran",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 4,
+      "nama": "Pulo Gadung - Galunggung",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 5,
+      "nama": "Kampung Melayu - Ancol",
+      "tipe": "BRT",
+      "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" }
+    },
+    {
+      "koridor_id": 6,
+      "nama": "Ragunan - Galunggung",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 7,
+      "nama": "Kampung Rambutan - Kampung Melayu",
+      "tipe": "BRT",
+      "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" }
+    },
+    {
+      "koridor_id": 8,
+      "nama": "Lebak Bulus - Pasar Baru",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 9,
+      "nama": "Pinang Ranti - Pluit",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 10,
+      "nama": "Tanjung Priok - PGC",
+      "tipe": "BRT",
+      "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" }
+    },
+    {
+      "koridor_id": 11,
+      "nama": "Pulo Gebang - Kampung Melayu",
+      "tipe": "BRT",
+      "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" }
+    },
+    {
+      "koridor_id": 12,
+      "nama": "Pluit - Tanjung Priok",
+      "tipe": "BRT",
+      "jam_operasional": { "weekday": "24_jam", "weekend": "24_jam" }
+    },
+    {
+      "koridor_id": 13,
+      "nama": "Ciledug - Tegal Mampang (Puri Beta 2 - Tegal Mampang)",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    },
+    {
+      "koridor_id": 14,
+      "nama": "JIS - Senen",
+      "tipe": "BRT",
+      "jam_operasional": {
+        "weekday": "05:00 - 22:00",
+        "weekend": "05:00 - 22:00"
+      }
+    }
   ]
 }
