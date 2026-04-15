@@ -1,0 +1,505 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+M1,weekday,WD_T002,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T003,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T004,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T005,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T006,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T007,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T008,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T009,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T010,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T011,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T012,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T013,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T014,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T015,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T016,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T017,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T018,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T019,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T020,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T021,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T022,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T023,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T024,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T025,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T026,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T027,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T028,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T029,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T030,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T031,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T032,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T033,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T034,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T035,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T036,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T037,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T038,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T039,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T040,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T041,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T042,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T043,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T044,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T045,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T046,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T047,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T048,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T049,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T050,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T051,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T052,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T053,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T054,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T055,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T056,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T057,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T058,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T059,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T060,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T061,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T062,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T063,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T064,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T065,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T066,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T067,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T068,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T069,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T070,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T071,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T072,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T073,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T074,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T075,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T076,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T077,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T078,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T079,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T080,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T081,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T082,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T083,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T084,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T085,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T086,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T087,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T088,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T089,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T090,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T091,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T092,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T093,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T094,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T095,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T096,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T097,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T098,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T099,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T100,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T101,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T102,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T103,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T104,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T105,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T106,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T107,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T108,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T109,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T110,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T111,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T112,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T113,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T114,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T115,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T116,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T117,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T118,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T119,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T120,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T121,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T122,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T123,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T124,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T125,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T126,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T127,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T128,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T129,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T130,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T131,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T132,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T133,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T134,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T135,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T136,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T137,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T138,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T139,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T140,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T141,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T142,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T143,Lebak Bulus BSI,0,shape_M1_0
+M1,weekday,WD_T144,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T145,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T146,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T147,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T148,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T149,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T150,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T151,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T152,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T153,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T154,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T155,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T156,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T157,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T158,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T159,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T160,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T161,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T162,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T163,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T164,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T165,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T166,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T167,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T168,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T169,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T170,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T171,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T172,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T173,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T174,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T175,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T176,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T177,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T178,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T179,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T180,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T181,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T182,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T183,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T184,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T185,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T186,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T187,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T188,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T189,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T190,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T191,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T192,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T193,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T194,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T195,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T196,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T197,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T198,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T199,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T200,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T201,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T202,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T203,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T204,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T205,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T206,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T207,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T208,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T209,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T210,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T211,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T212,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T213,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T214,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T215,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T216,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T217,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T218,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T219,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T220,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T221,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T222,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T223,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T224,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T225,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T226,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T227,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T228,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T229,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T230,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T231,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T232,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T233,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T234,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T235,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T236,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T237,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T238,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T239,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T240,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T241,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T242,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T243,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T244,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T245,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T246,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T247,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T248,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T249,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T250,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T251,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T252,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T253,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T254,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T255,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T256,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T257,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T258,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T259,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T260,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T261,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T262,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T263,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T264,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T265,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T266,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T267,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T268,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T269,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T270,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T271,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T272,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T273,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T274,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T275,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T276,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T277,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T278,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T279,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T280,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T281,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T282,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T283,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T284,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T285,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekday,WD_T286,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T002,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T003,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T004,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T005,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T006,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T007,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T008,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T009,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T010,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T011,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T012,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T013,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T014,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T015,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T016,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T017,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T018,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T019,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T020,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T021,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T022,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T023,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T024,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T025,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T026,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T027,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T028,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T029,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T030,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T031,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T032,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T033,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T034,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T035,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T036,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T037,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T038,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T039,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T040,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T041,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T042,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T043,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T044,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T045,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T046,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T047,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T048,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T049,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T050,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T051,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T052,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T053,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T054,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T055,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T056,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T057,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T058,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T059,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T060,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T061,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T062,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T063,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T064,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T065,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T066,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T067,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T068,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T069,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T070,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T071,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T072,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T073,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T074,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T075,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T076,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T077,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T078,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T079,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T080,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T081,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T082,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T083,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T084,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T085,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T086,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T087,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T088,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T089,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T090,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T091,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T092,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T093,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T094,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T095,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T096,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T097,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T098,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T099,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T100,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T101,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T102,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T103,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T104,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T105,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T106,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T107,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T108,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T109,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T110,Lebak Bulus BSI,0,shape_M1_0
+M1,weekend,WE_T111,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T112,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T113,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T114,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T115,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T116,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T117,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T118,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T119,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T120,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T121,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T122,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T123,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T124,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T125,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T126,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T127,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T128,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T129,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T130,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T131,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T132,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T133,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T134,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T135,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T136,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T137,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T138,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T139,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T140,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T141,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T142,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T143,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T144,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T145,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T146,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T147,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T148,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T149,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T150,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T151,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T152,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T153,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T154,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T155,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T156,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T157,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T158,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T159,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T160,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T161,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T162,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T163,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T164,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T165,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T166,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T167,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T168,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T169,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T170,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T171,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T172,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T173,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T174,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T175,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T176,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T177,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T178,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T179,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T180,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T181,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T182,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T183,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T184,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T185,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T186,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T187,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T188,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T189,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T190,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T191,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T192,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T193,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T194,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T195,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T196,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T197,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T198,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T199,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T200,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T201,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T202,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T203,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T204,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T205,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T206,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T207,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T208,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T209,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T210,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T211,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T212,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T213,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T214,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T215,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T216,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T217,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T218,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T219,Bundaran HI Bank Jakarta,1,shape_M1_1
+M1,weekend,WE_T220,Bundaran HI Bank Jakarta,1,shape_M1_1

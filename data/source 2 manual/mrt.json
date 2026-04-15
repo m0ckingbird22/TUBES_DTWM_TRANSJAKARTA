@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "tanggal_akses": "2026-04-14",
+    "sumber": "https://jakartamrt.co.id/",
+    "catatan": "Data operasional Fase 1 (Lebak Bulus - Bundaran HI)"
+  },
+  "tarif": {
+    "jenis": "Zona / Jarak",
+    "minimal_Rp": 3000,
+    "maksimal_Rp": 14000,
+    "skema": "Rp3.000 (tarif masuk) + Rp1.000 per stasiun yang dilewati"
+  },
+  "jam_operasional": {
+    "weekday": {
+      "pertama": "05:00",
+      "terakhir": "24:00",
+      "headway_peak": "5 menit",
+      "headway_off_peak": "10 menit"
+    },
+    "weekend_hari_libur": {
+      "pertama": "06:00",
+      "terakhir": "24:00",
+      "headway": "10 menit"
+    }
+  },
+  "kapasitas_penumpang": {
+    "per_rangkaian_6_kereta": {
+      "normal": 1200,
+      "maksimal_padat": 1950
+    },
+    "per_gerbong": {
+      "duduk": 50,
+      "berdiri_max": 275
+    }
+  },
+  "jumlah_armada_aktif": {
+    "total_rangkaian": 16,
+    "operasional_peak": 14,
+    "cadangan_perawatan": 2
+  },
+  "daftar_stasiun": [
+    "Lebak Bulus Grab", "Fatmawati Indomaret", "Cipete Raya", 
+    "Haji Nawi", "Blok A", "Blok M BCA", "ASEAN", 
+    "Senayan Mastercard", "Istora Mandiri", "Bendungan Hilir", 
+    "Setiabudi Astra", "Dukuh Atas BNI", "Bundaran HI"
+  ]
+}
