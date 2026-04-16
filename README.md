@@ -8,7 +8,6 @@
 | Dhafi Ihza Al Kahfi   | 24110300031 | Data Engineer / ETL Developer    |
 | Muhammad Nabil Alviro | -           | Data Analyst & Visualizer        |
 
-
 ## Struktur Folder
 
 ```
@@ -29,3 +28,5 @@
 ├── .env.example
 ├── requirements.txt
 └── README.md
+data sudah all update dari data pak dyas
+```
