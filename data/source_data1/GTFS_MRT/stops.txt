@@ -1,0 +1,14 @@
+stop_id,stop_name,stop_lat,stop_lon
+M01,Lebak Bulus Grab,-6.28986,106.77446
+M02,Fatmawati Indomaret,-6.27653,106.79486
+M03,Cipete Raya,-6.27168,106.79835
+M04,Haji Nawi,-6.26184,106.79777
+M05,Blok A,-6.25483,106.7994
+M06,Blok M BCA,-6.24427,106.79847
+M07,ASEAN,-6.23781,106.80028
+M08,Senayan,-6.22735,106.80196
+M09,Istora Mandiri,-6.22128,106.80296
+M10,Bendungan Hilir,-6.21113,106.81887
+M11,Setiabudi Astra,-6.2072,106.82242
+M12,Dukuh Atas BNI,-6.20056,106.82296
+M13,Bundaran HI,-6.19506,106.82329

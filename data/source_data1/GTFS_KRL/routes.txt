@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+RED,KAI-C,R,Lin Bogor (Jakarta Kota–Bogor),2,CC0000,FFFFFF
+BLUE,KAI-C,C,Lin Lingkar Cikarang (Jatinegara–Cikarang),2,0070C0,FFFFFF
+GREEN,KAI-C,A,Lin Rangkasbitung (Tanah Abang–Rangkasbitung),2,00B050,FFFFFF
+BROWN,KAI-C,T,Lin Tangerang (Duri–Tangerang),2,7B3F00,FFFFFF
+PINK,KAI-C,TP,Lin Tanjung Priok (Jakarta Kota–Tanjung Priok),2,FF69B4,FFFFFF
+ORNG,KAI-C,N,Lin Nambo (Citayam–Nambo),2,FF8C00,FFFFFF

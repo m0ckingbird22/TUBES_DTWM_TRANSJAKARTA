@@ -1,0 +1,5 @@
+fare_id,price,currency_type,payment_method,transfers
+KF01,3000,IDR,1,0
+KF02,4000,IDR,1,0
+KF03,5000,IDR,1,0
+KF04,6000,IDR,1,0
